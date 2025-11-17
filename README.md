@@ -1,4 +1,4 @@
-# EnvSite Stage 4 (restart monitor.py)
+#(restart monitor.py)
 
 - Operation 頁新增「重新啟動 monitor.py」按鈕
 - 伺服器端提供 `/api/restart_monitor`，會：
